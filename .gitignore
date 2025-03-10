@@ -1,0 +1,14 @@
+# Ignore build and dependency directories
+target/
+*.class
+
+# Ignore IDE settings
+*.iml
+.idea/
+.vscode/
+
+# Ignore environment files
+.env
+
+# Ignore Maven wrapper files
+.mvn/
